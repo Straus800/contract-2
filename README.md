@@ -1,2 +1,2 @@
-# contract-2
+# Solidity contract-2
 Simple solidity Strauss contract example #2
